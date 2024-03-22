@@ -10,11 +10,7 @@ Hacer el cierre de la presentación invitando a contactar
 - English
 - Spanish
 - French
-<<<<<<< HEAD
-
-=======
 ## Skills
 - Problem-Solving: As a developer, I thrive on solving complex problems. I’m constantly exploring new technologies and...
 ## Hobbies
 - Dancing: ...
->>>>>>> 5f559c0cf8632acdae752dcc8ef4229606674384
